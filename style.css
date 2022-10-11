@@ -1,4 +1,26 @@
-h1 {
-	font-size: 60px;
-	font-family: 'Montserrat', sans-serif;
+section {
+	display: flex;
+}
+
+div.square {
+	height: 50px;
+	width: 50px;
+	background-color: pink;
+	margin: 10px;
+}
+
+div.weeee.square {
+	background-color: rgb(47, 202, 220) !important;	
+}
+
+div.square.s1 {
+	background-color: green;
+}
+
+div.square.s2 {
+	background-color: rgb(138, 50, 206);
+}
+
+div.square.s3 {
+	background-color: rgb(222, 190, 9);
 }
